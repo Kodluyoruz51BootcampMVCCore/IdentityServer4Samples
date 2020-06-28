@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6P5yHF4jWlAdAFU7vkrANAyUYnKLJ6f8Qa0++550jLTlVLNtEXC4gVQK/6x5Wu8XvSNFtfoSUzR8TSr8GrctEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HakkiSagdic\\source\\repos\\IdentityServer4\\samples\\Quickstarts\\6_AspNetIdentity\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HakkiSagdic\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\HakkiSagdic\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\HakkiSagdic\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512",
+    "C:\\Users\\HakkiSagdic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
